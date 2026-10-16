@@ -1,0 +1,14 @@
+datasets:
+  - test_task
+
+task_col: subtype_class
+extra_cols: []
+task_type: classification
+metrics:
+  - acc
+label_dict:
+  0: t1
+  1: t2
+
+sample_col: case_id
+num_samples: 46

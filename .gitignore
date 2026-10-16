@@ -1,0 +1,16 @@
+# Local development files
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+
+# Feature data and model artifacts
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+mil_results/
